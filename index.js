@@ -1,4 +1,5 @@
- const devtoolsDetector = {
+console.log('TEST!');
+const devtoolsDetector = {
    addListener: () = {
      return false;
    },
